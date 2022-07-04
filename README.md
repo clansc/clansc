@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá! Eu sou a Clarice Nascimento 🖐️
 
-<!--
-**clansc/clansc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <a href="https://github.com/clansc"></a>
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=clansc&show_icons=true&theme=radical&include_all_commits-true&count_private=true"/>
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clansc&layout=compact&theme=radical"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline-block"><br>
+    <img align="center" alt="Cla-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+    <img align="center" alt="Cla-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+    <img align="center" alt="Cla-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div><br><br>
+    <a href="https://gmail.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+    <a href="https://linkedin.com" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+    <a href="https://discord.com" target="_blanck"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blanck"></a>
+</div>
