@@ -1,4 +1,4 @@
-## Oii! Eu sou a Clarice Nascimento 🖐️
+![Banner LinkedIn dia internacional do orgulho gay ](https://user-images.githubusercontent.com/108634631/179364406-4145ee4a-f00a-4b1b-8068-ac1d1a0f4136.png)
 
 <div>
     <a href="https://gmail.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
@@ -8,8 +8,7 @@
 
 <div>
     <a href="https://github.com/clansc"></a>
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=clansc&show_icons=true&theme=radical&include_all_commits-true&count_private=true"/>
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clansc&layout=compact&theme=radical"/>
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=clansc&show_icons=true&theme=radical&include_all_commits-true&count_private=true"/
 </div>
 
 ## Tecnologias que eu uso no meu dia
